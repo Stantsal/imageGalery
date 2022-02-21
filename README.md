@@ -1,2 +1,2 @@
-https://rolling-scopes-school.github.io/stantsal-JSFEPRESCHOOL/image-galery/
+https://Stantsal.github.io/imageGalery/imageGalery
 
